@@ -9,6 +9,7 @@ Developed by: **Iman Shirani**
 ---
 
 ![screenshot](MaterialCopierPRO.png)
+![screenshot](MaterialCopierPRO.jpg)
 
 
 
